@@ -7,6 +7,7 @@ Ein Produkte- und Rabattrechner für Swisscom Abos
 
 [![blue Calculator Demo](https://imgur.com/a/cQJ5yNk)](https://youtu.be/FfABmN0RUZo "blue Calculator Demo")
 
+[![blue Calculator Demo](https://imgur.com/a/cQJ5yNk)](https://youtu.be/FfABmN0RUZo)
 
 ## Features
 
